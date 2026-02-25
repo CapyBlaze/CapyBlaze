@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi everyone 👋</h1>
 
 <!--
 **CapyBlaze/CapyBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
